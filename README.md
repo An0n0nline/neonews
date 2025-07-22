@@ -13,11 +13,6 @@
 - **Smart filtering**: Multi-term search with `NULL` skip option
 
 ## 🚀 Quick Start
-```bash
-# Download and run:
-wget https://raw.githubusercontent.com/your-repo/neonews4.sh/main/neonews4.sh
-chmod +x neonews4.sh
-./neonews4.sh
 
 🕹️ Usage Guide
 Main Menu Options
